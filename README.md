@@ -1,2 +1,3 @@
 # LeetCode-169
-Majority Element
+##  Majority Element
+https://leetcode.com/problems/majority-element/
